@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"appiness.categories"}],"uuid":"5fb906a42d0f4b49b911558534326bd2"}
